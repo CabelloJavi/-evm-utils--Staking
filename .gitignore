@@ -1,0 +1,29 @@
+# Secrets
+.secrets.js
+coverage*
+./coverage.json
+operation_scripts/JS/config/config.js
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Yarn
+.pnp/
+.pnp.js
+
+# Solidity
+build/
+artifacts/*
+cache/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+img/

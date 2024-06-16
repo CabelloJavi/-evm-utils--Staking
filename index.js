@@ -1,0 +1,1 @@
+module.exports.secrets = require("./.secrets.js");

@@ -1,0 +1,23 @@
+{
+    "attributes": [
+        {
+          "trait_type": "Time",
+          "value": "6M"
+        },
+        {
+          "trait_type": "Yield",
+          "value": "6"
+        },
+        {
+          "trait_type": "CustomTokenCost",
+          "value": "500"
+        },
+        {
+          "trait_type": "NFTNeeded",
+          "value": "false"
+        }
+    ],
+    "name": "Stake-ID1",
+    "description": "CustomToken Staking ID1",
+    "image": "https://<url>/CustomToken-staking/images/1.png"
+}
