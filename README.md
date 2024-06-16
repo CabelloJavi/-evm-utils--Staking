@@ -1,5 +1,8 @@
 # Basic Operation
 
+## Requirements
+NodeJS ^20.12.0
+
 ## Contracts ABI
 
 The production ABIs has been included in this repo to help to integration. You can find on:
